@@ -13,7 +13,7 @@ https://memoria-care.com
 ## Contents
 
 - `index.html` – main landing page
-- `anna.png` – hero image
+- `ai-consultancy.png` – hero image
 
 ## About
 
